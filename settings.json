@@ -1,26 +1,30 @@
 {
-    // editor
-    "editor.fontFamily": "FiraMono Nerd Font",
-    "editor.wordWrap": "on",
-    "editor.minimap.enabled": false,
-    "editor.lineHeight": 24,
-    "editor.fontLigatures": true,
-    "editor.tabSize": 2,
-    "editor.tokenColorCustomizations": {
-      "textMateRules": [
-        {
-          "scope": ["comment", "keyword"],
-          "settings": {
-            "fontStyle": "italic"
-          }
+  // editor
+  "editor.fontFamily": "FiraMono Nerd Font",
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "editor.lineHeight": 24,
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": ["comment", "keyword"],
+        "settings": {
+          "fontStyle": "italic"
         }
-      ]
-    },
-    // cursor
-    "editor.cursorSmoothCaretAnimation": true,
-    "editor.cursorBlinking": "expand",
-    // terminal
-    "terminal.integrated.fontFamily": "FiraMono Nerd Font",
-    // workbench
-    "workbench.iconTheme": "material-icon-theme"
-  }
+      }
+    ]
+  },
+  // default bracket pair colorizer
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  // cursor
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorBlinking": "expand",
+  // terminal
+  "terminal.integrated.fontFamily": "FiraMono Nerd Font",
+  // workbench
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Monokai Pro (Filter Machine)"
+}
