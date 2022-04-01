@@ -19,6 +19,8 @@
   // default bracket pair colorizer
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": "active",
+  // auto rename tag
+  "editor.linkedEditing": true,
   // cursor
   "editor.cursorSmoothCaretAnimation": true,
   "editor.cursorBlinking": "expand",
