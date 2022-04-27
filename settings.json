@@ -1,9 +1,9 @@
 {
   // editor
-  "editor.fontFamily": "FiraMono Nerd Font",
+  "editor.fontFamily": "'Operator Mono Lig', 'JetBrains Mono','FiraCode Nerd Font', monospace",
   "editor.wordWrap": "on",
   "editor.minimap.enabled": false,
-  "editor.lineHeight": 24,
+  "editor.lineHeight": 30,
   "editor.fontLigatures": true,
   "editor.tabSize": 2,
   "editor.tokenColorCustomizations": {
@@ -24,9 +24,7 @@
   // cursor
   "editor.cursorSmoothCaretAnimation": true,
   "editor.cursorBlinking": "expand",
-  // terminal
-  "terminal.integrated.fontFamily": "FiraMono Nerd Font",
   // workbench
-  "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Monokai Pro (Filter Machine)"
+  "workbench.colorTheme": "Learn with Sumit - Professional",
+  "workbench.iconTheme": "material-icon-theme"
 }
