@@ -1,4 +1,6 @@
 Extensions:
 - Monokai Pro - monokai
+- Learn with Sumit Theme - Sumit Saha
+- Live Server (Five Server) - Yannick
 - Material Icon Theme - Philipp Kief
 - Path Intellisense - Christlan Kohler

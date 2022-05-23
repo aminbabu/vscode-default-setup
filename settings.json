@@ -25,6 +25,8 @@
   "editor.cursorSmoothCaretAnimation": true,
   "editor.cursorBlinking": "expand",
   // workbench
-  "workbench.colorTheme": "Learn with Sumit - Professional",
-  "workbench.iconTheme": "material-icon-theme"
+  "workbench.colorTheme": "Learn with Sumit - Vintage",
+  "workbench.iconTheme": "material-icon-theme",
+  // terminal
+  "terminal.integrated.fontFamily": "'FiraMono Nerd Font', 'FiraCode NF', 'Operator Mono Lig'"
 }
