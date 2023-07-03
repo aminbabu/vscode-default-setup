@@ -1,4 +1,4 @@
 Extensions:
-- Learn with SUmit Theme - Sumit Saha
+- Learn with Sumit Theme - Sumit Saha
 - Material Icon Theme - Philipp Kief
 - Path Intellisense - Christlan Kohler
