@@ -1,30 +1,30 @@
 {
-  // editor
-  "editor.fontFamily": "'JetBrainsMono Nerd Font', 'monospace', monospace",
-  "editor.wordWrap": "on",
-  "editor.minimap.enabled": false,
-  "editor.lineHeight": 26,
-  "editor.fontLigatures": true,
-  "editor.tabSize": 2,
-  "editor.tokenColorCustomizations": {
-    "textMateRules": [
-      {
-        "scope": ["comment", "keyword"],
-        "settings": {
-          "fontStyle": "italic"
+    // editor
+    "editor.fontFamily": "'Cascadia Mono PL', 'JetBrains Mono', Fira Code Mono",
+    "editor.wordWrap": "on",
+    "editor.minimap.enabled": false,
+    "editor.lineHeight": 26,
+    "editor.fontLigatures": "'calt', 'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
+    "editor.tabSize": 2,
+    "editor.tokenColorCustomizations": {
+      "textMateRules": [
+        {
+          "scope": ["comment", "keyword"],
+          "settings": {
+            "fontStyle": "italic"
+          }
         }
-      }
-    ]
-  },
-  // default bracket pair colorizer
-  "editor.bracketPairColorization.enabled": true,
-  "editor.guides.bracketPairs": "active",
-  // auto rename tag
-  "editor.linkedEditing": true,
-  // cursor
-  "editor.cursorSmoothCaretAnimation": true,
-  "editor.cursorBlinking": "expand",
-  // workbench
-  "workbench.colorTheme": "Learn with Sumit Theme",
-  "workbench.iconTheme": "material-icon-theme"
-}
+      ]
+    },
+    // default bracket pair colorizer
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    // auto rename tag
+    "editor.linkedEditing": true,
+    // cursor
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "expand",
+    // workbench
+    "workbench.colorTheme": "Learn with Sumit Official Theme",
+    "workbench.iconTheme": "material-icon-theme"
+  }
