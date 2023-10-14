@@ -1,6 +1,6 @@
 {
     // editor
-    "editor.fontFamily": "'Cascadia Mono PL', 'JetBrains Mono', Fira Code Mono",
+    "editor.fontFamily": "'Cascadia Mono PL', 'JetBrains Mono', 'Fira Code Mono'",
     "editor.wordWrap": "on",
     "editor.minimap.enabled": false,
     "editor.lineHeight": 26,
